@@ -1,4 +1,4 @@
-# Marketing-Strategy-
+# Marketing-Strategy
 
 
 A simple analysis on Restaurants industry data in India Location. Analysis of this data set with How people are searching for café and what kind of food is available in cities.
